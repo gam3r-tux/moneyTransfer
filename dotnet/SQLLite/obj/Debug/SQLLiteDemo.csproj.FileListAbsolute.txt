@@ -1,0 +1,14 @@
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\SQLLite.exe.config
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\SQLLite.exe
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\SQLLite.pdb
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLiteDemo.Form1.resources
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLiteDemo.csproj.GenerateResource.cache
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLiteDemo.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLiteDemo.csproj.CopyComplete
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLite.exe
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLite.pdb
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\System.Data.SQLite.dll
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\System.Data.SQLite.pdb
+D:\projects\dotnet\SQLLite\SQLLite\bin\Debug\System.Data.SQLite.dll.config
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLiteDemo.csprojResolveAssemblyReference.cache
+D:\projects\dotnet\SQLLite\SQLLite\obj\Debug\SQLLite.Properties.Resources.resources
